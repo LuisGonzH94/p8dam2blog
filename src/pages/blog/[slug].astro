@@ -1,0 +1,38 @@
+---
+import PostDetails from '../../components/PostDetails.jsx';
+import Layout from '../../layouts/Layout.astro';
+import { getPosts } from '../../lib/articles';
+
+export async function getStaticPaths() {
+  const posts = await getPosts(); // Obtiene los posts desde tu fuente
+  return posts.map((item) => ({
+    params: { slug: item.slug.toString() }, // Asegúrate de que `slug` sea un string
+  }));
+}
+
+const { slug } = Astro.params;
+
+// Obtén los datos de todos los posts
+const postsData = await getPosts();
+
+// Busca el post correspondiente al slug actual
+const currentPost = postsData.find((post) => post.slug === slug);
+
+if (!currentPost) {
+  throw new Error(`No existe ningún post con el slug: "${slug}"`);
+}
+
+// Pasamos los datos completos del post como prop al componente
+---
+<Layout>
+  <PostDetails post={currentPost} />
+</Layout>
+
+
+
+
+
+
+
+
+

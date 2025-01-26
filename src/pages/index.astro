@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="es">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body class="bg-gray-50 font-sans text-gray-800">
+		<Header />
+		<main class="m-5 p-8 max-w-4xl mx-auto bg-white shadow-lg rounded-lg">
+			<h1 class="text-5xl font-extrabold text-gray-900">
+				🧑🙏 Comida de dioses!
+			</h1>
+			<p class="mt-6 text-lg leading-relaxed">
+				Hola a todos, mi nombre es <span class="font-semibold">Luis</span>, y este es el primer blog que comparto con todos. Quiero recalcar lo desafiante que es para mí dar este gran paso al usar este blog con la plantilla de inicio de <a href="https://astro.build/" class="text-blue-600 hover:text-blue-800 underline">Astro</a>.
+			</p>
+			<p class="mt-6 text-lg leading-relaxed">
+				Algo muy asombroso que tiene <em>Astro</em> es que integra herramientas como <strong>TailwindCSS</strong>, lo que permite lograr un estilo mucho más atractivo. También uso <strong>React</strong> para implementar componentes interactivos que verás más adelante a lo largo de este proyecto.
+			</p>
+			<p class="mt-6 text-lg leading-relaxed">
+				Antes de que sigas explorando mi primer blog, quiero resaltar mi objetivo principal: compartir recetas de comida peruana, algo que disfruto mucho y me conecta con mis raíces y cultura. Quiero ofrecerte recetas que te permitirán preparar platos deliciosos para ti y tus seres queridos, llevando el sabor de Perú a la Luna 🚀🌙.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
+

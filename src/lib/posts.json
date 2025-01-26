@@ -1,0 +1,329 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "Anticuchos",
+            "abstract": "Deliciosos anticuchos de corazón de res, un ícono de la gastronomía peruana.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/3/8/8/anticuchos_de_corazon_77883_600.webp",
+            "description": "Este plato de anticuchos, ícono de la gastronomía peruana, se perfeccionó durante la época de la conquista española. En ese período, los esclavos africanos recibían los órganos menos valorados, como el corazón de res. Ingeniosamente, encontraron en los anticuchos una manera de aprovechar estos ingredientes, marinándolos y asándolos para realzar su sabor y hacerlos más apetitosos.",
+            "time": "45m",
+            "ingredients": [
+                "1 kilogramo de corazón de res",
+                "3 cucharas soperas de ajo molido",
+                "1 chorro de aceite",
+                "1/2 taza de vinagre tinto",
+                "6 cucharadas soperas de ají panca en pasta",
+                "1/2 cucharita de comino molido",
+                "1/2 cucharada sopera de orégano seco molido",
+                "1/2 cucharada postre de pimienta negra molida",
+                "sal al gusto",
+                "2 choclos",
+                "4 patatas",
+                "mantequilla para dorar c/n"
+            ],
+            "preparation": [
+                "Limpia el corazón de partes blancas y duras. Corta en trozos.",
+                "Prepara la marinada mezclando ajo, aceite, vinagre, ají panca, comino, orégano, pimienta y sal.",
+                "Marina los trozos de corazón y refrigera toda la noche.",
+                "Ensarta los trozos en brochetas.",
+                "Cocina en la parrilla, bañando con el marinado.",
+                "Sirve con choclo y papas sancochadas."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 12,
+            "slug": "anticuchos-de-corazon"
+        },
+        {
+            "id": 1,
+            "title": "Ceviche Peruano",
+            "abstract": "La receta clásica de ceviche peruano, fresca y llena de sabor.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600.webp",
+            "description": "El ceviche piurano es uno de los mejores ceviches que se pueden comer en Perú. Es conocido por usar limones de la región, en especial de Chulucanas, que son pequeños, de color verde brillante y tienen una acidez increíble. Además, estos cubos de pescado fresco marinados en limón son acompañados por camote o yuca, chifles, zarandajas y cancha.",
+            "time": "20m",
+            "ingredients": [
+                "1 kg de pescado fresco (corvina o lenguado)",
+                "12 limones",
+                "1 cebolla roja",
+                "1 ají limo",
+                "2 ramas de cilantro fresco",
+                "Sal al gusto",
+                "Pimienta al gusto",
+                "Maíz y camote para acompañar"
+            ],
+            "preparation": [
+                "Corta el pescado en cubos pequeños.",
+                "Exprime los limones y vierte el jugo sobre el pescado.",
+                "Añade sal, pimienta, ají limo picado y cilantro.",
+                "Mezcla con la cebolla en juliana y deja reposar 5 minutos.",
+                "Sirve con maíz y camote sancochado."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 25,
+            "slug": "ceviche-peruano"
+        },
+        {
+            "id": 2,
+            "title": "Pisco Sour",
+            "abstract": "El cóctel peruano por excelencia preparado en solo 4 pasos.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/8/1/6/pisco_sour_en_4_pasos_51618_600.webp",
+            "description": "El Pisco Sour es el cóctel bandera de Perú, preparado con pisco, limón, jarabe de goma y clara de huevo. Perfecto para celebrar cualquier ocasión. Es un aguardiente hecho a base de uvas con el que se preparan muchos cócteles y bebidas. Dentro de esta lista de bebidas con pisco, una de las más sencillas de hacer y más famosa es el pisco sour, una bebida considerada bandera del Perú.",
+            "time": "10m",
+            "ingredients": [
+                "3 onzas de pisco",
+                "1 onza de jugo de limón",
+                "1 onza de jarabe de goma",
+                "1 clara de huevo",
+                "Hielo al gusto",
+                "3 gotas de amargo de angostura"
+            ],
+            "preparation": [
+                "Coloca el pisco, el jugo de limón, el jarabe de goma y la clara de huevo en la licuadora.",
+                "Añade hielo y mezcla hasta obtener una textura espumosa.",
+                "Sirve en una copa fría.",
+                "Decora con 3 gotas de amargo de angostura."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 18,
+            "slug": "pisco-sour"
+        },
+        {
+            "id": 3,
+            "title": "Trucha Frita con Papas",
+            "abstract": "Una receta sencilla y deliciosa de trucha frita acompañada de papas doradas.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/3/9/2/trucha_frita_con_papas_77293_600.webp",
+            "description": "La trucha frita es un plato típico del Perú que tiene su origen en la región de la Sierra (Cusco, Puno, Ayacucho, Junín). Esta receta se elabora con trucha procedente de agua dulce, que se encuentra en los lagos y ríos de esta región. Un potaje delicioso y fácil de preparar donde la trucha tiene una corteza crocante y una carne muy tierna. Además, lo acompañaremos de las tradicionales papas doradas, ensalada fresca y choclo sancochado.",
+            "time": "30m",
+            "ingredients": [
+                "4 filetes de trucha fresca",
+                "1 taza de harina",
+                "Sal al gusto",
+                "Pimienta al gusto",
+                "Aceite para freír",
+                "4 papas sancochadas",
+                "1 limón"
+            ],
+            "preparation": [
+                "Lava y seca los filetes de trucha.",
+                "Sazona con sal y pimienta.",
+                "Enharina los filetes ligeramente.",
+                "Fríe en aceite caliente hasta que estén dorados.",
+                "Sirve con papas sancochadas y rodajas de limón."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 20,
+            "slug": "trucha-frita-con-papas"
+        },
+        {
+            "id": 4,
+            "title": "Ají de Pollo",
+            "abstract": "Un guiso cremoso y lleno de sabor, representativo de la gastronomía peruana.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/3/8/7/aji_de_pollo_16783_600.webp",
+            "description": "La gastronomía peruana guarda todo un repertorio de platos tradicionales que se han ido popularizando por varias regiones del mundo. Uno de los más apreciados es el ají de gallina, el cual ha sufrido una serie de transformaciones; por ejemplo, a pesar de que en su nombre lleva la palabra gallina, en la mayoría de las casas se prepara con pollo y, para los peruanos, ya es tácito que va a ser con esta ave.",
+            "time": "50m",
+            "ingredients": [
+                "1 pechuga de pollo",
+                "2 rebanadas de pan de molde",
+                "1 taza de leche evaporada",
+                "3 cucharadas de ají amarillo molido",
+                "1 cebolla picada",
+                "1 diente de ajo",
+                "Nueces picadas al gusto",
+                "Aceitunas negras para decorar",
+                "Papas sancochadas",
+                "Sal y pimienta al gusto"
+            ],
+            "preparation": [
+                "Sancocha la pechuga de pollo y deshilacha.",
+                "Remoja el pan en leche evaporada.",
+                "Fríe la cebolla y el ajo con el ají amarillo.",
+                "Añade el pan remojado y mezcla bien.",
+                "Incorpora el pollo deshilachado y cocina hasta obtener una textura cremosa.",
+                "Sirve con papas sancochadas y decora con aceitunas."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 15,
+            "slug": "aji-de-pollo"
+        },
+        {
+            "id": 5,
+            "title": "Tacu Tacu",
+            "abstract": "Una receta versátil y deliciosa a base de arroz y frijoles.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/9/5/5/tacu_tacu_con_lomo_76559_600.webp",
+            "description": "Su origen nos remonta a la necesidad de los esclavos afroperuanos de reservar un poco de las menestras y arroz del almuerzo para mezclarlos, aderezarlos y comerlos en el desayuno del día siguiente. Por tanto, este potaje nos deja el aprendizaje de utilizar la comida que nos sobró el día anterior, crear un platillo nuevo para el almuerzo y no desperdiciar comida. Este es un plato a base de arroz y crema de frejoles aderezados acompañado de piezas de lomo fino ahumados, bañados en una salsa de sillao, vinagre, con cebollas crocantes y tomates jugosos",
+            "time": "40m",
+            "ingredients": [
+                "2 tazas de arroz cocido",
+                "1 taza de frijoles cocidos",
+                "1 cebolla picada",
+                "1 diente de ajo",
+                "1 cucharada de ají amarillo molido",
+                "Aceite para freír",
+                "Sal y pimienta al gusto"
+            ],
+            "preparation": [
+                "Fríe la cebolla y el ajo con ají amarillo.",
+                "Mezcla el arroz y los frijoles con el sofrito.",
+                "Forma una masa compacta y dórala en una sartén con aceite.",
+                "Sirve caliente con huevo frito o carne asada."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 10,
+            "slug": "tacu-tacu"
+        },
+        {
+            "id": 6,
+            "title": "Rocoto Relleno",
+            "abstract": "Un plato picante y delicioso típico de Arequipa.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/9/0/1/rocoto_relleno_arequipeno_75109_600.webp",
+            "description": "El rocoto relleno es un platillo muy típico de la ciudad peruana de Arequipa, de ahí que se le conozca popularmente como arequipeño. Se trata de una de las preparaciones más características de la región, además del ya popular pastel de papa. El rocoto relleno arequipeño está hecho a base de rocoto, un fruto picante de forma redondeada que se produce principalmente en la zona. Además, son rellenados con carne de res adobada con los aliños típicos del Perú, donde no puede faltar el ají panca.",
+            "time": "1h 10m",
+            "ingredients": [
+                "4 rocotos grandes",
+                "200 gramos de carne molida",
+                "1 cebolla picada",
+                "1 diente de ajo",
+                "1 huevo cocido picado",
+                "Aceitunas negras",
+                "Queso para gratinar",
+                "Sal y pimienta al gusto"
+            ],
+            "preparation": [
+                "Limpia los rocotos quitando las semillas y hierve con agua y sal.",
+                "Fríe la cebolla, ajo y carne molida.",
+                "Añade el huevo cocido y las aceitunas.",
+                "Rellena los rocotos, cubre con queso y hornea hasta gratinar."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 22,
+            "slug": "rocoto-relleno"
+        },
+        {
+            "id": 7,
+            "title": "Lomo Saltado",
+            "abstract": "Un clásico de la fusión peruano-china.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/5/7/4/lomo_saltado_peruano_11475_600.webp",
+            "description": "La receta de lomo saltado peruano es una de las más emblemáticos de la vasta cocina peruana. Es un plato sencillo, pero no deja de enamorar por la combinación de sabores y la fusión de la gastronomía de Perú con la cocina oriental, específicamente la China.",
+            "time": "35m",
+            "ingredients": [
+                "500 gramos de lomo de res",
+                "1 cebolla morada",
+                "2 tomates",
+                "2 cucharadas de salsa de soja",
+                "1 cucharada de vinagre",
+                "Papas fritas",
+                "Arroz blanco para acompañar",
+                "Aceite para saltear"
+            ],
+            "preparation": [
+                "Corta el lomo en tiras y saltea en aceite caliente.",
+                "Añade cebolla, tomate, salsa de soja y vinagre.",
+                "Mezcla con papas fritas.",
+                "Sirve acompañado de arroz blanco."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 30,
+            "slug": "lomo-saltado"
+        },
+        {
+            "id": 8,
+            "title": "Causa Limeña",
+            "abstract": "Un plato frío a base de papa y ají amarillo.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/8/6/2/causa_limena_31268_600.webp",
+            "description": "La causa limeña es uno de los platos emblemáticos de la gastronomía de Perú, su ingrediente más característico es la papa amarilla. De hecho, fuera de las fronteras de este país se le conoce como causa peruana. Propia de la comida del verano, consiste en una especie de pastel de puré de papa relleno de ensalada de pollo o atún con mayonesa, además de otros vegetales. Generalmente, el adorno consiste en aceitunas negras y huevos cocidos. Aunque laborioso de preparar, en RecetasGratis la causa limeña nos conquistó por dos razones: no solo es un plato delicioso, también es un plato hermoso por la llamativa combinación de colores. En una base amarilla, gracias a la papa y a la crema de ajíes, contrasta el verde de los aguacates o paltas, pimentones y judías, y el naranja de las zanahorias.",
+            "time": "40m",
+            "ingredients": [
+                "1 kilogramo de papa amarilla",
+                "2 cucharadas de ají amarillo molido",
+                "1 taza de pollo deshilachado",
+                "1 palta (aguacate)",
+                "Mayonesa al gusto",
+                "Aceitunas negras para decorar"
+            ],
+            "preparation": [
+                "Hierve las papas, pélalas y haz un puré con el ají amarillo.",
+                "Forma capas de puré y rellena con pollo mezclado con mayonesa y palta.",
+                "Decora con aceitunas y sirve frío."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 18,
+            "slug": "causa-limena"
+        },
+        {
+            "id": 9,
+            "title": "Papa a la Huancaína",
+            "abstract": "Una entrada cremosa y tradicional de Perú.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/8/1/0/papa_a_la_huancaina_peruana_11018_600.webp",
+            "description": "Si quieres preparar una papa a la huancaina peruana de una manera sencilla, no te pierdas esta receta fácil que pone a tu disposición RecetasGratis para elaborar esta comida peruana en cualquier ocasión y para sorprender a toda la familia. Normalmente esta papa a la huancaína peruana se suele acompañar con unas cuantas rodajas de lechuga y tomate pero tú puedes acompañarla con lo que prefieras. ",
+            "time": "20m",
+            "ingredients": [
+                "4 papas",
+                "1 taza de leche evaporada",
+                "200 gramos de queso fresco",
+                "3 cucharadas de ají amarillo molido",
+                "2 galletas de soda",
+                "Aceitunas negras para decorar",
+                "Huevo duro para acompañar"
+            ],
+            "preparation": [
+                "Licúa el ají, queso, leche y galletas hasta obtener una crema.",
+                "Sirve sobre papas sancochadas y decora con aceitunas y huevo duro."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 12,
+            "slug": "papa-a-la-huancaina"
+        },
+        {
+            "id": 10,
+            "title": "Seco de Res",
+            "abstract": "Un guiso delicioso a base de carne y culantro.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/0/8/4/seco_de_res_con_frejoles_76480_600.webp",
+            "description": "El seco de res con frejoles es uno de los guisos más populares de la comida criolla peruana. Se dice que se llama así, irónicamente por lo jugoso que es este plato. Se presume que esta elaboración tiene influencia árabe debido a que anteriormente se llamaba “seco tajime” inspirado en el tajín árabe que se preparaba con cordero. En esta ocasión, te proporcionaremos la receta de un seco de res limeño característico por ser de color verde oscuro debido a que lleva bastante culantro.",
+            "time": "1h 20m",
+            "ingredients": [
+                "1 kilogramo de carne de res",
+                "1 cebolla picada",
+                "1 taza de culantro licuado",
+                "1 zanahoria en rodajas",
+                "1 taza de cerveza negra",
+                "Papas sancochadas",
+                "Arroz para acompañar"
+            ],
+            "preparation": [
+                "Sazona la carne y dóralo en una olla.",
+                "Fríe la cebolla y mezcla con el culantro licuado.",
+                "Añade la carne, zanahoria y cerveza negra.",
+                "Cocina a fuego lento hasta que la carne esté tierna."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 17,
+            "slug": "seco-de-res"
+        },
+        {
+            "id": 11,
+            "title": "Carapulcra",
+            "abstract": "Un estofado de papa seca y carne con mucho sabor.",
+            "image_url": "https://cdn0.recetasgratis.net/es/posts/8/7/7/carapulcra_limena_20778_600.webp",
+            "description": "Uno de los platos más emblemáticos de Perú es la carapulcra. Este delicioso plato está hecho a base de papa deshidratada con un típico aderezo de ají panca y cebolla roja. La carapulcra limeña es uno de los platos más antiguos, fue creado en el siglo XVII, y en esta época era considerado un guiso para personas con bajos recursos. Posteriormente, en el siglo XIX era consumido por todas las clases sociales limeñas. Señalamos también que en la región de Ica se acostumbra servirlo con sopa seca o mancha pecho. Con el pasar de los años la receta se modificó según la región.",
+            "time": "1h 30m",
+            "ingredients": [
+                "500 gramos de papa seca",
+                "500 gramos de carne de cerdo",
+                "1 cebolla picada",
+                "3 cucharadas de ají panca molido",
+                "1 taza de caldo de carne",
+                "Maní tostado molido",
+                "Arroz para acompañar"
+            ],
+            "preparation": [
+                "Remoja la papa seca durante la noche.",
+                "Fríe la cebolla con ají panca.",
+                "Añade la carne de cerdo y dora.",
+                "Incorpora la papa seca y el caldo de carne.",
+                "Cocina a fuego lento hasta que espese y decora con maní."
+            ],
+            "pubDate": "2024-08-25",
+            "likes": 14,
+            "slug": "carapulcra"
+        }
+    ]
+}
